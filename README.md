@@ -10,6 +10,7 @@ Requirement(ZH_CN)
 运行make.bat
 
 运行前请先确保系统安装了
+
 1. Adobe Heiti Std Regular
 2. Adobe Fangsong Std Regular
 3. Adobe Kaiti Std Regular
