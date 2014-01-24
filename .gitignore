@@ -16,6 +16,7 @@
 *.lof
 *.log
 *.lot
+*.loa
 *.maf
 *.mtc
 *.mtc0
@@ -31,3 +32,4 @@
 *.xdy
 *.tdo
 *.pdf
+*.bst
