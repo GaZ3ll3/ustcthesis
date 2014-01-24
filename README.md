@@ -41,5 +41,8 @@ http://bbs.ustc.edu.cn/cgi/go?cgi=bbsdoc&board=TeX
 - zym@USTCBBS
 
 测试通过:
-12.04@Ubuntu + 2012@texlive
+- 12.04@Ubuntu + 2012@texlive
 
+
+TODO:
+- 提供ins文件和dtx文件，cls文件，sty文件将被生成
