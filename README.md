@@ -1,4 +1,4 @@
 ustcthesis
 ==========
 
-template for USTC thesis
+template for USTC thesis, modify from google code version
