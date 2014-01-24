@@ -5,9 +5,23 @@ template for USTC thesis, modify from google code version
 
 ---
 
-Requirement(ZH_CN)
+使用须知(ZH_CN)
 
-运行make.bat
+如果是texlive 2009用户，请更新至2011之后，方法如下
+```
+sudo add-apt-repository ppa:texlive-backports/ppa
+sudo apt-get update
+sudo apt-get upgrade
+```
+如果upgrade命令返回这些package被keep back，请用
+```
+sudo apt-get dist-upgrade
+```
+进行升级
+
+---
+
+运行make.bat(WIN用户) / 运行bash make.sh(LINUX用户)
 
 运行前请先确保系统安装了
 
@@ -25,4 +39,7 @@ http://bbs.ustc.edu.cn/cgi/go?cgi=bbsdoc&board=TeX
 - pineking@USTCBBS
 
 - zym@USTCBBS
+
+测试通过:
+12.04@Ubuntu + 2012@texlive
 
