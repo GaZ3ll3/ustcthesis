@@ -27,6 +27,7 @@
 
 \RequirePackage{times}
 \RequirePackage{ccaption}
+\RequirePackage{calc}
 \RequirePackage{amsmath,amsthm,amsfonts,amssymb,bm}
 \RequirePackage[lined,boxed,linesnumbered,algochapter]{algorithm2e}
 \RequirePackage{graphicx,psfrag}
