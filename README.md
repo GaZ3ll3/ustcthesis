@@ -22,6 +22,7 @@ Requirement(ZH_CN)
 
 http://bbs.ustc.edu.cn/cgi/go?cgi=bbsdoc&board=TeX
 
-pineking@USTCBBS
-zym@USTCBBS
+- pineking@USTCBBS
+
+- zym@USTCBBS
 
