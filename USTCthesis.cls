@@ -88,7 +88,8 @@
 \newcommand{\hei}{\CJKfamily{hei}}      % 黑体
 \newcommand{\verthei}{\CJKfamily{verthei}}
 
-%\setmainfont{Times New Roman}
+% uncomment here to use bond font (\textbf)
+\setmainfont{Times New Roman}
 \setsansfont[BoldFont={Courier New Bold}]{Courier New}
 \setmonofont[BoldFont={Arial:style=Bold}]{Arial}
 
