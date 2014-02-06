@@ -47,6 +47,8 @@
 \RequirePackage{pifont}
 \RequirePackage{hyperref}
 \RequirePackage[numbers,sort&compress,square]{natbib}
+% update longtable fixed #2
+\RequirePackage{longtable}
 \hypersetup{
 	CJKbookmarks=true,%
 	bookmarksnumbered=true,%
