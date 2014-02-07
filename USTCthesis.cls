@@ -49,6 +49,8 @@
 \RequirePackage[numbers,sort&compress,square]{natbib}
 % update longtable fixed #2
 \RequirePackage{longtable}
+% thanks to bachelor template
+\RequirePackage[integrals]{wasysym}
 \hypersetup{
 	CJKbookmarks=true,%
 	bookmarksnumbered=true,%
