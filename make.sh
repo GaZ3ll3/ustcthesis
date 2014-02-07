@@ -1,7 +1,5 @@
-#!/bin/sh
-# this is for Unix/Linux scripts
-sh clean.sh
-xelatex main
+bash clean.sh
+xelatex -no-pdf main.tex
 bibtex main
-xelatex main
-xelatex main
+xelatex -no-pdf main.tex
+xelatex main.tex
