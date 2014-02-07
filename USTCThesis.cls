@@ -8,7 +8,7 @@
 %
 
 \NeedsTeXFormat{LaTeX2e}[1994/12/01]
-\ProvidesClass{ustcthesis}[2010/05/17 ver 0.1 by XPS@USTC Last Modified 2011/06/03 by ywg@USTC]
+\ProvidesClass{USTCThesis}[2010/05/17 ver 0.1 by XPS@USTC Last Modified 2011/06/03 by ywg@USTC]
 
 \newif\ifustc@CaptionNoColon\ustc@CaptionNoColonfalse
 \DeclareOption{capnocolon}{\ustc@CaptionNoColontrue}
