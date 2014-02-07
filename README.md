@@ -32,7 +32,6 @@ LINUX用户需要修改
  \setCJKsansfont{SimHei}  
  \setCJKmonofont{FangSong}  
 ```
-以确保字体能用
 ---
 
 运行make.bat(WIN用户) / 运行bash make.sh(LINUX用户)
